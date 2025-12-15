@@ -1,7 +1,7 @@
 html, body {
     margin: 0;
     padding: 0;
-    background-image: url("img/table.png");
+    background: green url('/img/table.png') no-repeat center top / cover fixed;
     font-family: "Exo 2", sans-serif;
     height: 100vh;
 }
